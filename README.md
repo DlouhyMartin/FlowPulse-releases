@@ -1,0 +1,2 @@
+# FlowPulse-releases
+FlowPulse – instalátory
